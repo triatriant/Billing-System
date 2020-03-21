@@ -1,0 +1,27 @@
+Before setting up the application proceed with the following:
+
+1. Press Win + R to open the Run window, type “installer” and click Enter to open the folder in File Explorer.
+2. Add the column “Subject”. Right click the column headers, then click More and select Subject
+3. Sort on the Subject column and scroll down until you locate the name “Microsoft Access Database Engine 2016” AND “Microsoft Access Database Engine 2010”, you might have both, one of each or neither. If you don't have either of them, proceed to the next section.
+4. Right click the MSI file and choose uninstall.
+
+Once you have completed the above, go to:
+https://www.microsoft.com/en-us/download/details.aspx?id=54920
+and download AccessDatabaseEngine.exe, NOT AccessDatabaseEngine.exe (x64).
+
+When the download is completed, go to the downloads folder. Double-click on it and follow the steps on the screen.
+
+Now, we will install the application. Go the folder of the Billing System application.
+
+1. Click on the Setup Folder and then select the Debug Folder.
+2. Select the setup application (with the disc icon) and double click it.
+3. Once asked to install Microsoft Access Database Engine 2016 click on 'Install', even if you already have it.
+4. Wait for the download to finish and ALLOW the program to run.
+5. If you receive a notification mentioning that you cannot install the Microsoft Access Database Engine 2016, click 'OK', don't worry.
+6. Once the Setup Wizard comes up click on 'Next'.
+7. Select the folder you want your installation to be saved at and then click on 'Next'.
+8. Again click on 'Next' to start the installation.
+9. Allow the application to proceed.
+10. Click on close.
+11. The application has been completed. Navigate to your Desktop to access it.
+

@@ -1,0 +1,17 @@
+If you are receiving an Error Message, try to  uninstall Office 16 Click-to-Run Extensibility 
+Component 64-bit Registration following the steps below:
+
+1. Press Win + R to open the Run window, type “installer” and click Enter to open the folder in File Explorer.
+2. Add the column “Subject”. Right click the column headers, then click More and select Subject
+3. Sort on the Subject column and scroll down until you locate the name “Microsoft Access Database Engine 2016” AND “Microsoft Access Database Engine 2010”, you might have both, one of each or neither. If you don't have either of them, proceed to the next section.
+4. Right click the MSI file and choose uninstall.
+
+Once you have completed the above, go to:
+https://www.microsoft.com/en-us/download/details.aspx?id=54920
+and download AccessDatabaseEngine.exe, NOT AccessDatabaseEngine.exe (x64).
+
+When the download is completed, go to the downloads folder. Double-click on it and follow the steps on the screen.
+
+After all the above is finished, try to run the application once again.
+
+If you are seeing the same error displayed after following all the above, uninstall the application and reinstall it.
